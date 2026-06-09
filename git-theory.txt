@@ -1,1 +1,2 @@
 Git la he thong quan ly phien ban phan tan.
+Git giup luu lich su thay doi source code. 
